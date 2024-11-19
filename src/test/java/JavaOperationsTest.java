@@ -4,6 +4,8 @@ class JavaOperationsTest {
     @Test
     void addTest(){
         System.out.println("First Test");
+        System.out.println("second Test");
+
     }
 
 }
